@@ -1,5 +1,6 @@
 # sari_sari_init.py
-# Sari-sari store main module (like karinderya, but discount applies to total and no service charge)
+# Sari-sari store main module
+
 import datetime
 import random
 import string
