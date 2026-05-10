@@ -1,5 +1,5 @@
-from karinderya import init
-from sarisari import sari_sari_init 
+import karinderya_init
+import sari_sari_init
 
 
 while True:
@@ -13,7 +13,7 @@ while True:
     choice = input("Enter your choice: ")
 
     if choice == "1":
-        init.main()
+        karinderya_init.main()
     elif choice == "2":
         sari_sari_init.main()
     elif choice == "3":

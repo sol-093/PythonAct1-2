@@ -18,12 +18,12 @@
 import datetime
 import random
 import string
-from . import change
-from . import cash
-from . import service_charge
-from . import discount
-from . import calculate
-from . import selection
+import change
+import cash
+import service_charge
+import discount
+import calculate
+import selection
 
 
 def main():
